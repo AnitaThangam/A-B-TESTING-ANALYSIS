@@ -1,7 +1,7 @@
 **A/B Testing for Website Conversion Optimization**
 
 
-his project demonstrates the design, simulation, and analysis of an A/B test to evaluate website conversion performance using Python. A/B testing is a fundamental technique in data-driven decision-making, commonly applied in marketing, product design, and UI/UX optimization.
+This project demonstrates the design, simulation, and analysis of an A/B test to evaluate website conversion performance using Python. A/B testing is a fundamental technique in data-driven decision-making, commonly applied in marketing, product design, and UI/UX optimization.
 **The objective** is to compare two versions of a website (Version A - Current, Version B - New Design) to determine which leads to better conversion rates.
 
 1. Using simulated data, the project walks through:
